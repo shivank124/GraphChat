@@ -103,9 +103,9 @@ These keys will be prompted for in the Streamlit UI sidebar when you select the 
 ### Supported Groq Models
 
 Common models available:
-- `mixtral-8x7b-32768`
-- `llama2-70b-4096`
-- `gemma-7b-it`
+- `qwen/qwen3-32b`
+- `llama-3.3-70b-versatile`
+- `openai/gpt-oss-120b`
 
 ## 🎯 Usage
 
